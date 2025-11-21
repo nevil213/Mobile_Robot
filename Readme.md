@@ -6,6 +6,10 @@ It maintains a **formal tone**, clear structure, precision, and concise wording 
 
 # **Autonomous Mobile Robot Navigation using D* Lite Path Planning and Vision-Based Localization**
 
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/7bf7845b-144a-4769-ae4b-dcd04044f082" />
+
+[Robot Testing](https://github.com/user-attachments/assets/23aa6c1a-f91c-45e3-ab09-f521fd5c8e38)
+
 This repository contains a complete implementation of an **autonomous mobile robot navigation system** that integrates:
 
 * **D* Lite global path planning** (running on Raspberry Pi)
@@ -59,14 +63,14 @@ The navigation system is divided into two cooperating subsystems:
                                     │ UDP Commands
                                     ▼
              ┌─────────────────────────────────────────┐
-             │                   ESP32                  │
+             │                   ESP32                 │
              │─────────────────────────────────────────│
-             │ • Command parser                         │
-             │ • Encoder-based distance control         │
-             │ • MPU6050 gyro-based turn control        │
-             │ • PWM motor driver interface             │
-             │ • Motor auto-calibration                 │
-             │ • Status reporting (ACK)                 │
+             │ • Command parser                        │
+             │ • Encoder-based distance control        │
+             │ • MPU6050 gyro-based turn control       │
+             │ • PWM motor driver interface            │
+             │ • Motor auto-calibration                │
+             │ • Status reporting (ACK)                │
              └─────────────────────────────────────────┘
 ```
 
