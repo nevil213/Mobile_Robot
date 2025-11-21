@@ -245,9 +245,9 @@ This platform can be extended with:
 
 | Team Member             | Primary Contribution Area                                                                                           |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Nevil Vataliya**      | Hardware/Software Integration; ESP32 firmware development; UDP communication protocol.      |
-| **Prankit Vishwakarma** | Software development; complete implementation of the D* Lite algorithm; obstacle detection logic & grid processing. |
-| **Mohammad Shahil**     | Hardware assembly; robot chassis construction; low-level ESP32 motor driver & MPU6050 sensor handling.              |
-| **Parth Modi**          | Raspberry Pi configuration; high-level Python development for planning & vision pipeline; overall software support. |
+| **[Nevil Vataliya](https://github.com/nevil213)**      | Hardware/Software Integration; ESP32 firmware development; UDP communication protocol.      |
+| **[Prankit Vishwakarma](https://github.com/prank-vish)** | Software development; complete implementation of the D* Lite algorithm; obstacle detection logic & grid processing. |
+| **[Mohammad Shahil](https://github.com/shahil020668)**     | Hardware assembly; robot chassis construction; low-level ESP32 motor driver & MPU6050 sensor handling.              |
+| **[Parth Modi](https://github.com/parthm2005)**          | Raspberry Pi configuration; high-level Python development for planning & vision pipeline; overall software support. |
 
 This project would not be possible without the combined efforts, collaboration, and domain knowledge contributed by each team member.
