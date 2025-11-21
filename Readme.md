@@ -1,9 +1,3 @@
-Below is a **highly professional, publication-ready, GitHub-friendly README.md**, written in a clean, technical, research-style format suitable for academic submission, portfolio use, or robotics project showcase.
-
-It maintains a **formal tone**, clear structure, precision, and concise wording while preserving all technical details.
-
----
-
 # **Autonomous Mobile Robot Navigation using D* Lite Path Planning and Vision-Based Localization**
 
 <img height="350" alt="image" src="https://github.com/user-attachments/assets/7bf7845b-144a-4769-ae4b-dcd04044f082" />
